@@ -73,6 +73,7 @@ If there’s a match you can claim your identity with your phone number.
 
 Once claimed, you can submit a form to provide more data. There can even be a bounty posted on the sign to provide you money to submit the form. *Can't be abused since it's literally photo verified*.
 
+You can also recieve a portion of profit that the network creates with your data.
 
 ### Registration
 How to register a client to create queries on the network.
