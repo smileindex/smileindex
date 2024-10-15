@@ -29,9 +29,7 @@ An innocent, smile on camera sign.
 
 The camera needs to protect anonymity.
 
-So I believe it will classify “smile or no smile” on-device. I imagine this is possible with current tech.
-
-And a simple website to keep track of recorded smiles. I’m looking at smileindex.org. I like how the words combine with out any visual intersection.
+So I believe it will classify “smile or no smile” on-device. I believe this is possible with current tech.
 
 ---
 
@@ -39,7 +37,7 @@ And a simple website to keep track of recorded smiles. I’m looking at smileind
 
 Now, I’ll explain how to distribute it.
 
-1. Using the panopticon effect, people will visually look at it.
+1. Using the panopticon effect, people will actually smile when they look at it. _(yay!)_
 2. It just says “smile on camera” with [smileindex.org](http://smileindex.org) in small print.
 3. The entire sign will be a QR code. You’ll be able to to get the link off the QR code from across the street.
 
@@ -49,12 +47,12 @@ Now, I’ll explain how to distribute it.
 
 Features on the website.
 
-1. Each site will have a custom QR code. *(You can pay more to customize the code).*
+1. Each sign will have a custom QR code. *(You can pay more to customize the code).*
 2. Icon attribution. This device will go viral and will be interesting to see how it spreads.
 3. Demographics querying.
 4. A list of identified people and their photos.
 5. A way to identify yourself.
-6. Order a sign for your or someone else.
+6. Order a sign for you or someone else.
 
 ---
 
@@ -89,14 +87,21 @@ For a small fee, you can query the camera. *This revenue can be shared by the ow
 
 This network is completly public. And given this, it is a big concern to keep it safe.
 
-There will be a public ledger that the network will poll. The ledger contains bounties for queries that people have paid for.
+There will be a public ledger that the clients will poll. The ledger contains bounties for queries that people have paid for.
 
 A bounty will have the following characteristics:
 
 1. A question
 2. A price
-3. Date resolved
+3. Whether it's open or not.
 4. Owner (verified phone number)
+
+If a client decides to resolve a bounty it can submit an answer to the network.
+
+By default, the sign will always post two basic bounties (the owner of the sign can always control this).
+
+1. Is someone smileing?
+2. Is someone smoking?
 
 
 
